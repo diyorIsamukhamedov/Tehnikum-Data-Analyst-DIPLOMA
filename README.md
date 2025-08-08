@@ -8,7 +8,6 @@ The work covers a variety of data analytics domains, from **relational databases
 
 ## 📂 Repository Structure
 
-```text
 Tehnikum-Data-Analyst-DIPLOMA/
 │
 ├── 📊 GoogleSheets/      # Google Sheets assignments and reports
