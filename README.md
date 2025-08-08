@@ -6,17 +6,18 @@ The work covers a variety of data analytics domains, from **relational databases
 
 ---
 
-## 📂 Repository Structure
+## 📚 Course Structure
 
-Tehnikum-Data-Analyst-DIPLOMA/
-│
-├── 📊 GoogleSheets/      # Google Sheets assignments and reports
-├── 🗄️ PostgreSQL/         # SQL queries, database schemas, and relational database tasks
-├── 🐍 Python/             # Python scripts for data wrangling, manipulation, and automation
-├── 🐼 Pandas/              # Data analysis and preprocessing with Pandas
-├── 📈 PowerBI/            # Power BI dashboards and visualization projects
-└── 🎓 Final_Project/      # Comprehensive final diploma project combining all learned skills
+The full certificate includes **9 courses**:
 
+| № | Course Title                                            | Status     |
+|---|----------------------------------------------------------|------------|
+| 1 | 📊 GoogleSheets                                        | ✅ Done     |
+| 2 | 🗄️ PostgreSQL                                          | ✅ Done     |
+| 3 | 🐍 Python                                              | ✅ Done     |
+| 4 | 🐼 Pandas                                              | ✅ Done     |
+| 5 | 📈 PowerBI                                             | ✅ Done     |
+| 6 | 🎓 Final_Project                                       | ✅ Done     |
 
 ---
 
@@ -38,6 +39,20 @@ Tehnikum-Data-Analyst-DIPLOMA/
 - Visualization and business intelligence reporting with Power BI
 - Final diploma project integrating multiple tools and techniques
 
+---
+
+## 📂 Repository Structure
+
+```bash
+Tehnikum-Data-Analyst-DIPLOMA/
+│
+├── 📊 GoogleSheets/      # Google Sheets assignments and reports
+├── 🗄️ PostgreSQL/         # SQL queries, database schemas, and relational database tasks
+├── 🐍 Python/             # Python scripts for data wrangling, manipulation, and automation
+├── 🐼 Pandas/              # Data analysis and preprocessing with Pandas
+├── 📈 PowerBI/            # Power BI dashboards and visualization projects
+└── 🎓 Final_Project/      # Comprehensive final diploma project combining all learned skills
+```
 ---
 
 ## 🚀 Usage
