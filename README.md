@@ -8,14 +8,16 @@ The work covers a variety of data analytics domains, from **relational databases
 
 ## 📂 Repository Structure
 
+```text
 Tehnikum-Data-Analyst-DIPLOMA/
 │
-├── 📊 GoogleSheets/ # Google Sheets assignments and reports
-├── 🗄️ PostgreSQL/ # SQL queries, database schemas, and relational database tasks
-├── 🐍 Python/ # Python scripts for data wrangling, manipulation, and automation
-├── 🐼 Pandas/ # Data analysis and preprocessing with Pandas
-├── 📈 PowerBI/ # Power BI dashboards and visualization projects
-└── 🎓 Final_Project/ # Comprehensive final diploma project combining all learned skills
+├── 📊 GoogleSheets/      # Google Sheets assignments and reports
+├── 🗄️ PostgreSQL/         # SQL queries, database schemas, and relational database tasks
+├── 🐍 Python/             # Python scripts for data wrangling, manipulation, and automation
+├── 🐼 Pandas/              # Data analysis and preprocessing with Pandas
+├── 📈 PowerBI/            # Power BI dashboards and visualization projects
+└── 🎓 Final_Project/      # Comprehensive final diploma project combining all learned skills
+
 
 ---
 
