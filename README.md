@@ -22,7 +22,7 @@ The full certificate includes **9 courses**:
 ---
 
 ## 🛠️ Skills & Tools
-- **Databases:** PostgreSQL, SQL (DDL, DML, joins, subqueries, aggregations, Views, Index, CTEs, Partitions)
+- **Databases:** PostgreSQL, SQL (DDL, DML, joins, subqueries, aggregations, Views, Index, CTEs, Window functions)
 - **Python:** Data wrangling, preprocessing, cleaning, automation
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Spreadsheets:** Excel, Google Sheets (formulas, pivot tables, dashboards)
